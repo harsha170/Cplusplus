@@ -1,0 +1,6 @@
+﻿  ItemFreq.cpp
+C:\Users\harsh\OneDrive\Desktop\Siemens(C++)\Shopping\Shopping\ItemFreq.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\harsh\OneDrive\Desktop\Siemens(C++)\Shopping\Shopping\ItemFreq.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Shopping.vcxproj -> C:\Users\harsh\OneDrive\Desktop\Siemens(C++)\Shopping\Debug\Shopping.exe
