@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\harsh\OneDrive\Desktop\Siemens(C++)\AlgoFun\AlgoFun\main.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  AlgoFun.vcxproj -> C:\Users\harsh\OneDrive\Desktop\Siemens(C++)\AlgoFun\Debug\AlgoFun.exe
